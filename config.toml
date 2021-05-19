@@ -1,0 +1,3 @@
+baseURL = "http://project1.test/"
+languageCode = "ru"
+title = "My New Hugo Site"
